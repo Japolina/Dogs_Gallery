@@ -1,6 +1,13 @@
 # Dogs_Gallery
 Website de uma galeria para cachorros 🐶📚
 
+- Home page
+<img src="/readme_img/gallery.png"/>
+- Login
+<img src="/readme_img/login.png"/>
+- Dog photo
+<img src="/readme_img/photo.png"/>
+
 # ♻️ Installation
 ```bash
   git clone https://github.com/Japolina/Dogs_Gallery.git
