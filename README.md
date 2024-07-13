@@ -18,7 +18,7 @@ In the project directory, you can run:
 ```
 
 ## 🔨 Tools
-- **Python**
+- **JavaScript**
 
 ## 📜 License
 This project is under MIT license. See the <a href="https://github.com/Japolina/Dogs_Gallery/blob/master/LICENSE">LICENSE</a> file for more details.
